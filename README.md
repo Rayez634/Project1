@@ -15,5 +15,6 @@ Due to its many null values and duplicates, we took action, such as imputing som
 Data Visualizations.
 We were able to devise different visualizations to answer the business questions and clearly explain to the investors why the idea works and why they should consider it the best course of action for the company.
 
+Note: The Tableau document was not able to be saved in pdf format although I have provided a pdf snap of the interactive dashboard present.
 Powerpoint Presentation.
 We also came up with a PowerPoint presentation to aid in explaining to the investors why the company has been experiencing the problem in hand and find ways to change that and come up with a better solution for the company.
